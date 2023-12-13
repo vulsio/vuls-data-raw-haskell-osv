@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "HSEC-2023-0006",
-	"modified": "2023-10-04T21:02:55.303199Z",
+	"modified": "2023-12-13T13:05:32.474017Z",
 	"published": "2023-07-19T13:59:54Z",
 	"summary": "x509-validation does not enforce pathLenConstraint",
 	"details": "# x509-validation does not enforce pathLenConstraint\n\n*x509-validation* prior to version 1.4.8 did not enforce the\npathLenConstraint value.  Constrained CAs could accidentally (or\ndeliberately) issue CAs below the maximum depth and\n*x509-validation* would accept certificates issued by the\nunauthorised intermediate CAs.\n",
