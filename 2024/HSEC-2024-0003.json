@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "HSEC-2024-0003",
-	"modified": "2024-04-10T06:30:51.293803Z",
+	"modified": "2024-04-11T06:56:32.872022Z",
 	"published": "2024-04-09T22:14:47Z",
 	"aliases": [
+		"CVE-2024-3566",
 		"VU#123335"
 	],
 	"related": [
@@ -93,6 +94,14 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://kb.cert.org/vuls/id/123335"
+		},
+		{
+			"type": "FIX",
+			"url": "https://github.com/haskell/process/commit/3c419f9eeedac024c9dccce544e5a6fb587179a5"
 		}
 	]
 }
