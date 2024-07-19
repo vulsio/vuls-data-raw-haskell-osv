@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "HSEC-2023-0003",
-	"modified": "2023-12-13T13:05:26.167985Z",
+	"modified": "2024-07-19T05:20:03.249399Z",
 	"published": "2023-06-19T21:35:14Z",
 	"aliases": [
 		"CVE-2013-1436"
@@ -18,7 +18,7 @@
 			"severity": [
 				{
 					"type": "CVSS_V2",
-					"score": "CVSS:2.0/AV:N/AC:L/Au:N/C:P/I:P/A:P"
+					"score": "AV:N/AC:L/Au:N/C:P/I:P/A:P"
 				}
 			],
 			"ranges": [
