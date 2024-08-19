@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "HSEC-2024-0009",
-	"modified": "2024-08-01T13:11:54.067569Z",
+	"modified": "2024-08-19T04:44:07.511328Z",
 	"published": "2024-08-01T12:52:14Z",
 	"aliases": [
 		"CVE-2024-41949",
+		"CVE-2024-42350",
 		"GHSA-47cq-pc2v-3rmp",
 		"GHSA-p9w4-585h-g3c7",
 		"GHSA-rgqv-mwc3-c78m"
