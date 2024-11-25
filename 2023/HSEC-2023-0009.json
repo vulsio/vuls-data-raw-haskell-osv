@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "HSEC-2023-0009",
-	"modified": "2023-12-13T13:05:30.305379Z",
+	"modified": "2024-11-25T14:22:10.785307Z",
 	"published": "2023-07-25T13:25:42Z",
 	"aliases": [
 		"CVE-2017-12976"
@@ -32,7 +32,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0.1"
+							"introduced": "0"
 						},
 						{
 							"fixed": "6.20170818"
